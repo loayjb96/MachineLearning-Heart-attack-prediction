@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a506a5f3-cef7-4013-bc17-a85efda67efc" name="Default Changelist" comment="new add">
-      <change afterPath="$PROJECT_DIR$/.idea/MachineLearning-Heart-attack-prediction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/heart_search-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/heart_search-checkpoint.ipynb" afterDir="false" />
+    <list default="true" id="a506a5f3-cef7-4013-bc17-a85efda67efc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/heart_search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/heart_search.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,6 +46,7 @@
       <workItem from="1581861009189" duration="1107000" />
       <workItem from="1582100561932" duration="3155000" />
       <workItem from="1582106622675" duration="658000" />
+      <workItem from="1582107669172" duration="137000" />
     </task>
     <task id="LOCAL-00001" summary="new add">
       <created>1581861379346</created>
@@ -68,7 +62,13 @@
       <option name="project" value="LOCAL" />
       <updated>1581861531784</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎00003" summary="new add">
+      <created>1582107721072</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1582107721072</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
