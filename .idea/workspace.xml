@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a506a5f3-cef7-4013-bc17-a85efda67efc" name="Default Changelist" comment="new add" />
+    <list default="true" id="a506a5f3-cef7-4013-bc17-a85efda67efc" name="Default Changelist" comment="new add">
+      <change afterPath="$PROJECT_DIR$/.idea/MachineLearning-Heart-attack-prediction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/heart_search-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/heart_search-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heart_search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/heart_search.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +23,8 @@
   </component>
   <component name="ProjectId" id="1XtMamhgbC1jyCdgx6EIvjeJ9jw" />
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -40,6 +51,8 @@
       <option name="presentableId" value="Default" />
       <updated>1581861002999</updated>
       <workItem from="1581861009189" duration="1107000" />
+      <workItem from="1582100561932" duration="3155000" />
+      <workItem from="1582106622675" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="new add">
       <created>1581861379346</created>
@@ -66,7 +79,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
