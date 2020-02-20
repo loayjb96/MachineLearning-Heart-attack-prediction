@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a506a5f3-cef7-4013-bc17-a85efda67efc" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/heart.csv" beforeDir="false" afterPath="$PROJECT_DIR$/heart.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/heart_search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/heart_search.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_plot/correlationofdata.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_plot/correlationofdata.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_plot/linear svm.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_plot/linear svm.png" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/heart_search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/heart_search.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_plot/correlationofdata.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_plot/correlationofdata.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_plot/linear svm.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_plot/linear svm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_plot/logsticheat.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_plot/logsticheat.png" afterDir="false" />
+>>>>>>> 0fe5e63fd61c4d2568015d969d8af2c49e8ab945
       <change beforePath="$PROJECT_DIR$/new_plot/rbf svm.png" beforeDir="false" afterPath="$PROJECT_DIR$/new_plot/rbf svm.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +60,11 @@
       <workItem from="1582106622675" duration="658000" />
       <workItem from="1582107669172" duration="1021000" />
       <workItem from="1582108691611" duration="912000" />
+<<<<<<< HEAD
       <workItem from="1582117013190" duration="723000" />
+=======
+      <workItem from="1582113775549" duration="1278000" />
+>>>>>>> 0fe5e63fd61c4d2568015d969d8af2c49e8ab945
     </task>
     <task id="LOCAL-00001" summary="new add">
       <created>1581861379346</created>
@@ -93,7 +104,13 @@
       <option name="presentableId" value="LOCAL‎00006" />
       <updated>1582113576866</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL‎00007" summary="new add">
+      <created>1582113827361</created>
+      <option name="number" value="LOCAL‎00007" />
+      <option name="presentableId" value="LOCAL‎00007" />
+      <updated>1582113827361</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
